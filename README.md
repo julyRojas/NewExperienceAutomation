@@ -1,6 +1,5 @@
 INSTALL FRAMEWORK
-
-1. git clone https://github.com/felicitihuarancca/WebAutomation.git
+1. git clone https://github.com/julyRojas/NewExperienceAutomation.git
 2. mvn clean install -DskipTests
 3. mvn eclipse:eclipse or mvn idea:idea
 
